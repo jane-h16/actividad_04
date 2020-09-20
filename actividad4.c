@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-//Funcion
+//Funcion del programa 2
 void mostrar(int n,char arreglo2[]);
 
 struct personaje{
@@ -49,7 +49,7 @@ int main(){
     scanf("%d",&n);
     mostrar(n,arreglo2);
 
-    //Estructura personaje
+    //Estructura personaje Programa 3
     
     int x;
 	for (x=0;x<5;x++){
@@ -76,7 +76,7 @@ int main(){
     return 0;
 }
 
-    //Funcion
+    //Funcion del programa 2 
     void mostrar(int n, char arreglo2[])
 {
     int j;
