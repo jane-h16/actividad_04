@@ -3,6 +3,8 @@
 #include <string.h>
 #include <stdlib.h>
 
+//Programa 1,2,3 esta terminado:D
+
 //Funcion del programa 2
 void mostrar(int n,char arreglo2[]);
 
